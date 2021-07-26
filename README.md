@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm an experienced software developer.
+
+<dl>
+  <dt>Contact me</dt>
+  <dd><code>["aikorsky", "gmail.com"].join("@")</code></dd>
+  <dt>Support me</dt>
+  <dd><a href="https://www.patreon.com/blackbeam"><img src="https://img.shields.io/badge/Patreon-support-red"/></a></dd>
+</dl>
+
 <!--
 **blackbeam/blackbeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
